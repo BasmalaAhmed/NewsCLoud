@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # news_app
 
 A new Flutter project.
@@ -15,3 +16,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "# NewsCloud" 
+=======
+# NewsCLoud
+An application to display news.
+>>>>>>> 8fbcd89333079183bf5090b1c3c28d0cb115bef3
