@@ -1,14 +1,12 @@
-//import 'package:flutter/material.dart';
-
 class ArticleModel {
-  final String art_img;
-  final String art_title;
-  final String art_desc;
+  final String? artImg;
+  final String artTitle;
+  final String? artDesc;
+  final String url;
 
-
-const ArticleModel ({
-  required this.art_img,
-    required this.art_title,
-    required this.art_desc
-})
-;}
+  const ArticleModel(
+      {required this.artImg,
+      required this.artTitle,
+      required this.artDesc,
+      required this.url});
+}

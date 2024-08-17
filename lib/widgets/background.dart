@@ -12,7 +12,11 @@ class BackGroundWidget extends StatelessWidget {
         gradient: LinearGradient(
           begin: Alignment.topCenter,
           end: Alignment.bottomCenter,
-          colors: [Color(0xffFEEADD), Color(0xffECD7C9),Color(0xffFFFFFF)],
+          colors: [
+            Color.fromARGB(255, 100, 98, 95),
+            Color.fromARGB(255, 146, 143, 139),
+            Color.fromARGB(255, 207, 203, 198)
+          ],
         ),
       ),
     );
